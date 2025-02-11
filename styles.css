@@ -1,0 +1,41 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(1, 4, 21);
+    text-shadow: 0 0 10px rgb(251, 252, 248), 0 0 20px rgb(237, 238, 227);
+    text-align: center;
+}
+
+
+
+.container {
+    text-align: center;
+    background: rgb(136, 214, 214);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(1, 6, 13);
+}
+
+input {
+    padding: 8px;
+    width: 80%;
+    margin: 10px 0;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: #f41010;
+    color: rgb(245, 235, 235);
+    border: none;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #06e01f;
+}
+
+#weather-info {
+    margin-top: 15px;
+}
