@@ -1,5 +1,5 @@
 
-A Weather Web Application is a simple web-based tool that allows users to check real-time weather conditions for any city. It fetches weather data from an external API (like OpenWeatherMap) and displays information such as temperature, humidity, wind speed, and weather descriptions.
+A Weather Web Application is a simple web-based tool that allows users to check real-time weather conditions for any city. It fetches weather data from an external API of OpenWeatherMap and displays information such as temperature, humidity, wind speed, and weather descriptions.
 
 Technologies Used-
 HTML → Structure the web page (input field, buttons, and weather details).
