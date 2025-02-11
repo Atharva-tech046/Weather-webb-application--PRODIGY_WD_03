@@ -14,9 +14,4 @@ Features of the Weather Web App-
 ✅ Weather Icons → Uses icons to visually represent the weather.
 ✅ Responsive Design → Works on desktop and mobile screens.
 
-Working Mechanism-
-User enters a city name in the search box.
-JavaScript fetches weather data from OpenWeatherMap API.
-The API returns data in JSON format.
-JavaScript extracts necessary details (temperature, weather type, etc.).
-The app dynamically updates the UI with the weather information.
+🔴LIVE DEMO- https://atharva-tech046.github.io/Weather-webb-application--PRODIGY_WD_03/
